@@ -1,0 +1,39 @@
+.navbar	{
+	background: #2c3e50;
+	width: 100%;
+	z-index: 1;
+}
+body {
+	padding-top: 70px;
+}
+
+li {
+	font-family: sans-serif;
+}
+
+#pic1 {
+	margin-right: 5px;
+}
+
+#pic2 {
+	margin-right: 10px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+
+}
+
+.img-thumbnail {
+	margin-top: 4%;
+}
